@@ -1,10 +1,14 @@
 # Bedienungsanleitung EBL Coords
 ## Setup
+
 Führe ebl_coords.exe im Ordnder, wo ebl_config.json liegt, aus.
 
 In ebl_config.json sind alle Betriebspunkte und ECoS IP-Adressen eingetragen, bei Ausbau muss das File angepasst werden.
+
 ## Streckenelemente erfassen
+
 ## Weiche
+
 ### Neue Weiche erfassen
 - Auf den Knopf 'neue Weiche' klicken
 - Folgende Werte eingeben:
