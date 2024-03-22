@@ -1,5 +1,6 @@
 # Bedienungsanleitung EBL Coords
-
+## Setup
+Führe ebl_coords.exe im Ordnder, wo ebl_config.json liegt, aus.
 ## Streckenelemente erfassen
 ## Weiche
 ### Neue Weiche erfassen
